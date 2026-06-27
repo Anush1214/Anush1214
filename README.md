@@ -120,10 +120,8 @@
 
 ## 🐍 Contribution Snake
 
-Create `.github/workflows/snake.yml` and use Platane/snk to generate the animation. Once enabled, add:
+<h3 align="center">🐍 Contribution Snake</h3>
 
-```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anush1214/Anush1214/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anush1214/Anush1214/output/github-contribution-grid-snake-dark.svg" />
 </p>
-```
