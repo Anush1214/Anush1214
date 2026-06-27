@@ -1,9 +1,13 @@
+from docx import Document
+from textwrap import dedent
+import pypandoc
 
+md = dedent(r'''
 <div align="center">
 
 # 👋 Hi, I'm **Anush C Rao**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Computer+Vision+Enthusiast;Generative+AI+Learner;Hackathon+Participant;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;AI+Engineer+%7C+Full+Stack+Developer;Computer+Vision+Enthusiast;Generative+AI+Learner;Hackathon+Winner;Open+Source+Contributor"/>
 
 </div>
 
@@ -18,27 +22,46 @@
 
 🏆 **Secretary – TASC (AIML Association)**
 
-🌱 Currently exploring:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision
-- Deep Learning
-- Cloud & System Design
+🥇 **Winner – Flinders University Hackathon**
 
-💡 I enjoy building practical AI applications, contributing to open source, and participating in hackathons.
+💡 Passionate about Artificial Intelligence, Computer Vision, Generative AI, Large Language Models and Full Stack Development. I enjoy building intelligent applications that solve real-world problems while participating in hackathons and continuously learning emerging technologies.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner – Flinders University Hackathon
+- 💼 AI / Full Stack Developer Intern – Vanora Robots
+- 🏛 Secretary – TASC (AIML Association)
+- 🚀 Active Hackathon Participant
+- 💻 Open Source & AI Enthusiast
+
+---
+
+## 💼 Experience
+
+### AI / Full Stack Developer Intern — Vanora Robots
+
+Worked with:
+
+- React
+- Next.js
+- Tailwind CSS
+- Supabase
+- REST APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 👁️ Eye Movement Based Assistive Communication | Python · OpenCV · MediaPipe |
-| 🚗 AVSense Object Detection | YOLOv8 · Python |
-| 📈 Stock Price Predictor | TensorFlow · LSTM |
-| 💰 Expense Tracker | React · Node.js · MongoDB |
-| 🤖 Sakura Learn | Full Stack |
-| 💻 LeetCode Solutions | DSA |
+| Project | Description |
+|---------|-------------|
+| 👁️ Eye Movement Based Assistive Communication | OpenCV • MediaPipe • Python |
+| 🚗 AVSense Internship | YOLOv8 Object Detection |
+| 📈 Stock Price Prediction | TensorFlow • LSTM |
+| 💰 Expense Tracker | MERN Stack |
+| 🤖 Sakura Learn | AI Learning Platform |
+| 💻 LeetCode Solutions | DSA Practice |
 
 ---
 
@@ -46,9 +69,24 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,tensorflow,pytorch,opencv,mongodb,mysql,postgres,firebase,supabase,docker,git,github,linux,tailwind,vscode,figma,arduino"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,react,nextjs,nodejs,express,fastapi,tensorflow,opencv,mongodb,mysql,supabase,docker,git,github,linux,tailwind,vscode"/>
 
 </div>
+
+**AI / ML Libraries**
+
+`MediaPipe` • `NumPy` • `Pandas` • `scikit-learn` • `Keras` • `Jupyter Notebook`
+
+---
+
+## 🎖 Leadership
+
+Secretary — **TASC (AIML Association)**
+
+- Organized HackFest
+- Organized PitchStorm
+- Organized The Taru Tales
+- Coordinated Technical Events & Student Activities
 
 ---
 
@@ -58,7 +96,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anush1214&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anush1214&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Anush1214&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anush1214&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -86,13 +124,13 @@
 
 ---
 
-## 🎯 Current Focus
+## 🌱 Currently Learning
 
-- 🤖 Generative AI & LLMs
-- 👁️ Computer Vision
-- 🚀 AI Product Development
-- 📚 LeetCode & DSA
-- 🌐 Full Stack Engineering
+- 🤖 Large Language Models (LLMs)
+- 🧠 Generative AI
+- ☁️ Cloud Computing
+- 🏗️ System Design
+- 📚 Advanced DSA
 
 ---
 
@@ -120,8 +158,7 @@
 
 ## 🐍 Contribution Snake
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
+```html
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anush1214/Anush1214/output/github-contribution-grid-snake-dark.svg" />
 </p>
