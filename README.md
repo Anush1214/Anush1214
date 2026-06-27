@@ -101,8 +101,8 @@
 <div align="center">
 
 <a href="https://github.com/Anush1214"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+<a href="https://linkedin.com/in/anushrao2114"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
+<a href="mailto:anushrao.work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
 
 </div>
 
