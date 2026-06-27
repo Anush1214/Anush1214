@@ -154,8 +154,7 @@ Secretary — **TASC (AIML Association)**
 
 ## 🐍 Contribution Snake
 
-```html
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anush1214/Anush1214/output/github-contribution-grid-snake-dark.svg" />
 </p>
-```
+
