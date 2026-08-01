@@ -11,16 +11,18 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech – Artificial Intelligence & Machine Learning**  
+🎓 B.Tech – Artificial Intelligence & Machine Learning
 🏫 NMAM Institute of Technology (NMAMIT)
 
-💼 **AI / Full Stack Developer Intern** – Vanora Robots
+🖥️ Technical Intern – Advith ITec
 
-🏆 **Secretary – TASC (AIML Association)**
+💼 Front end Developer Intern – Vanora Robots
 
-🥇 **Winner – Flinders University Hackathon**
+🏆 Operations Manager - FInite Loop Club
 
-💡 Passionate about Artificial Intelligence, Computer Vision, Generative AI, Large Language Models and Full Stack Development. I enjoy building intelligent applications that solve real-world problems while participating in hackathons and continuously learning emerging technologies.
+🥇 Winner – Flinders University Hackathon
+
+💡 Passionate about Artificial Intelligence, Computer Vision, Generative AI, Large Language Models and Full Stack Development. I enjoy building intelligent applications that solve real-world problems while participating in hackathons and continuously learning emerging technologies
 
 ---
 
