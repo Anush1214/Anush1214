@@ -18,8 +18,6 @@
 
 💼 Front end Developer Intern – Vanora Robots
 
-🏆 Operations Manager - FInite Loop Club
-
 🥇 Winner – Flinders University Hackathon
 
 💡 Passionate about Artificial Intelligence, Computer Vision, Generative AI, Large Language Models and Full Stack Development. I enjoy building intelligent applications that solve real-world problems while participating in hackathons and continuously learning emerging technologies
